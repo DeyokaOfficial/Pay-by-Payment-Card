@@ -6,7 +6,7 @@ Pay By Payment Card
    In essence, this challenge calls for a developer to use their coding skills to construct the user interface and employ JavaScript for the functionality, without resorting to any external libraries or frameworks. It showcases the ability to work with fundamental web technologies to create a practical and user-friendly payment page.
 
 ## Host Link 
-//https://deyokaofficial.github.io/
+https://deyokaofficial.github.io/
 
 ## Technologies Used
 * Frontend: <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
